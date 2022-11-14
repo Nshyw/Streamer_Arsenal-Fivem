@@ -25,7 +25,7 @@ function stre.giveitem(item)
     local recompensa = {
         ["lancer"] = {
             type = "vehicle",
-            spawn = "adder"
+            spawn = "lancer"
         },
         ["moto"] = {
             type = "vehicle",
